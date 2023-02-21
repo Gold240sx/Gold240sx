@@ -50,8 +50,11 @@
   - I'm a proud lifetime member of fireship.io: https://github.com/fireship-io
   - David Gray: https://github.com/gitdagray
   - Tom Phillips: https://github.com/tomphill
-  - The Net Ninja (Shaun JP):https://github.com/iamshaunjp
-  - 
+  - Web Dev Simplified: https://github.com/WebDevSimplified
+  - Jack Herrington: https://github.com/jherr
+  - The Net Ninja (Shaun JP) - Shoutout: His courses taught me most of the basic up until next-js: https://github.com/iamshaunjp
+  - ChatGPT ... cause let's be honest, taking the potential learning experince from it for granted is a waste.
+  
      
 ## Classes I've completed:
 Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack <br/>
