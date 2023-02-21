@@ -1,8 +1,12 @@
-<h1 align="center"><img style="height: 50px" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> Hi , I'm Michael </h1>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+
+<h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> I'm Michael, Welcome!</h1>
 
 ##                                                 <a href="#" target="_blank"> <img src="https://i.ibb.co/M8M8Vkr/megaman.png" /> </a>  About Me
   - Looking to collaborate on **OpenSource Projects**.
-  - How to reach me **240designworks@gmail.com**.
+  - You can reach me at: **240designworks@gmail.com**.
 
   - About Myself : 
       - I'm a front-end web dev dabbling in fullstack apps and responsive email.
