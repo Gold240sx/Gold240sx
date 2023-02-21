@@ -6,8 +6,8 @@
 
   - About Myself : 
       - Diligent, attentive and creative problem solver
-      - Former Art Student, salesperson, and business owner
-      - I love mountain biking, Building racecars, DIY, and the general creative process. (Yes, I own an S13)
+      - Former art student, salesperson, and business owner
+      - I love mountain biking, building racecars, DIY, and the general creative process. (Yes, I own an S13)
     
 ## Languages and Tools:
 
@@ -38,7 +38,9 @@
       <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/qMSFHVM/reactemail.png" /> </a> 
 </p>
 </p>
-## My Goto stack: 
+
+### My Goto stack: 
+
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
      <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
