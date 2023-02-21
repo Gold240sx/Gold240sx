@@ -5,7 +5,7 @@
   - You can reach me at: **240designworks@gmail.com**.
 
   - About Myself : 
-      - I'm a front-end web dev dabbling in fullstack apps and responsive email.
+      - I'm a Web Dev worming towards more towards fullstack apps with integrated responsive email.
       - Diligent, attentive and creative problem solver
       - Former art student, salesperson, and business owner
       - I love mountain biking, building racecars, DIY, and the general creative process. (Yes, I own an S13)
