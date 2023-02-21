@@ -5,7 +5,7 @@
   - How to reach me **240designworks@gmail.com**.
 
   - About Myself : 
-      - Diligent, attentive and creative problem Solver
+      - Diligent, attentive and creative problem solver
       - Former Art Student, salesperson, and business owner
       - I love mountain biking, Building racecars, DIY, and the general creative process. (Yes, I own an S13)
     
