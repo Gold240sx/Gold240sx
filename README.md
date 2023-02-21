@@ -12,7 +12,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
- <p align="left">
+ <p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
