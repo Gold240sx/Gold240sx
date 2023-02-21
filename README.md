@@ -5,6 +5,7 @@
   - How to reach me **240designworks@gmail.com**.
 
   - About Myself : 
+      - I'm a front-end web dev dabbling in fullstack apps and responsive email.
       - Diligent, attentive and creative problem solver
       - Former art student, salesperson, and business owner
       - I love mountain biking, building racecars, DIY, and the general creative process. (Yes, I own an S13)
@@ -44,6 +45,13 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
      <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+     
+### My favorite Developers + Teachers:
+  - I'm a proud lifetime member of fireship.io: https://github.com/fireship-io
+  - David Gray: https://github.com/gitdagray
+  - Tom Phillips: https://github.com/tomphill
+  - The Net Ninja (Shaun JP):https://github.com/iamshaunjp
+  - 
      
 ## Classes I've completed:
 Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack <br/>
