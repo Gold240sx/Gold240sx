@@ -22,6 +22,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
+    <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/stC8B8h/tailwind-u-I.png" /> </a> 
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -31,7 +32,6 @@
     <!-- -->
       <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/h7R2dLL/webpack.png" /> </a>   
       <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/4jSbQ3t/vercel.png" /> </a> 
-      <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/stC8B8h/tailwind-u-I.png" /> </a> 
       <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/CPTK4xm/t3.png" /> </a> 
       <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/Yjn0Nbx/supabase.png" /> </a> 
       <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/y4ZP2qG/sendgrid.png" /> </a> 
