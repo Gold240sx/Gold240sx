@@ -1,8 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
-
-<h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> I'm Michael, Welcome!</h1>
+<h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> Hey, I'm Michael. Welcome!</h1>
 
 ##                                                 <a href="#" target="_blank"> <img src="https://i.ibb.co/M8M8Vkr/megaman.png" /> </a>  About Me
   - Looking to collaborate on **OpenSource Projects**.
