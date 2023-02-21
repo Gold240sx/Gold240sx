@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm Suraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi , I'm Michael</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+  
 </p>
 
 <p align="center">
