@@ -51,13 +51,15 @@
      <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/bQqMwvY/fireship.png" /> </a> 
      TheNetNinja
      
+     <br/><br/>
+     
 ## Classes I've completed:
-Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack
-Certificate Link: https://lnkd.in/gRRR_pxw #prisma #nextjs #trpc
-Certificate Link: https://lnkd.in/d3qzRAYe #tailwindcss #tailwind #css 
-Certificate Link: https://lnkd.in/g3h8s4Ep #Email #EmailResponsive
-Certificate Link: https://lnkd.in/gaW4WYNG #dataVisualizations  #d3
-Certificate Link: https://lnkd.in/gwVaiqRH #reactPortfolio
-Certificate Link: https://lnkd.in/g3fmVNRF #react #reactjs #firebase 
-Certificate Link: https://lnkd.in/gdPeeaEE #javascript #vanillajs 
+Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack     <br/><br/>
+Certificate Link: https://lnkd.in/gRRR_pxw #prisma #nextjs #trpc <br/><br/>
+Certificate Link: https://lnkd.in/d3qzRAYe #tailwindcss #tailwind #css <br/><br/>
+Certificate Link: https://lnkd.in/g3h8s4Ep #Email #EmailResponsive <br/><br/>
+Certificate Link: https://lnkd.in/gaW4WYNG #dataVisualizations #d3 <br/><br/>
+Certificate Link: https://lnkd.in/gwVaiqRH #reactPortfolio <br/><br/>
+Certificate Link: https://lnkd.in/g3fmVNRF #react #reactjs #firebase <br/><br/>
+Certificate Link: https://lnkd.in/gdPeeaEE #javascript #vanillajs <br/><br/>
 
