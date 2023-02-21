@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Michael</h1>
 
-## 🙋‍♂️ About Me
-  - 👯 Looking to collaborate on **OpenSource Projects**.
-  - 📫 How to reach me **240designworks@gmail.com**.
+## About Me
+  - Looking to collaborate on **OpenSource Projects**.
+  - How to reach me **240designworks@gmail.com**.
 
-  - ⚡ About Myself : 
+  - About Myself : 
       - Diligent, attentive and creative problem Solver
       - Former Art Student, salesperson, and business owner
       - I love mountain biking, Building racecars, DIY, and the general creative process. (Yes, I own an S13)
     
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="center">
  <p align="center">
