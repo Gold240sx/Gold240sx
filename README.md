@@ -42,11 +42,13 @@
 </p>
 </p>
 
-### My Goto stack: 
+### My Current Goto stack: 
 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+   
+   ...persuing a regular use of Next13-T3App-Prisma-TPRC-Supabase/PlanetScale-Tailwind
    
    
    
