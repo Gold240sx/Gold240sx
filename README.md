@@ -65,6 +65,7 @@
   
      
 ## Classes I've completed:
+Certificate Link: https://lnkd.in/gwXBy46r #next #nextJS #SSR #ISR #hasura #next13
 Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack <br/>
 Certificate Link: https://lnkd.in/gRRR_pxw #prisma #nextjs #trpc <br/>
 Certificate Link: https://lnkd.in/d3qzRAYe #tailwindcss #tailwind #css <br/>
