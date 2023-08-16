@@ -14,7 +14,7 @@
 
 <p align="center">
  <p align="center">
-   <a href="" target="_blank"><img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/0FJ39J4/png-transparent-figma-app-logo-tech-companies-thumbnail.png"/></a>
+   <a href="https://www.figma.com/" target="_blank"><img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/0FJ39J4/png-transparent-figma-app-logo-tech-companies-thumbnail.png"/></a>
        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -45,7 +45,7 @@
 
 ### My Current Goto stack: 
 
-   <a href="" target="_blank"><img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/0FJ39J4/png-transparent-figma-app-logo-tech-companies-thumbnail.png"/></a>
+   <a href="https://www.figma.com/" target="_blank"><img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/0FJ39J4/png-transparent-figma-app-logo-tech-companies-thumbnail.png"/></a>
    <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/hyG9DhN/typescript.png" /> </a> 
    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
