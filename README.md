@@ -45,6 +45,7 @@
 
 ### My Current Goto stack: 
 
+   <a href="" target="_blank"><img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/0FJ39J4/png-transparent-figma-app-logo-tech-companies-thumbnail.png"/></a>
    <a href="#" target="_blank"> <img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/hyG9DhN/typescript.png" /> </a> 
    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
