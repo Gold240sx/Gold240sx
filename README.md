@@ -50,18 +50,7 @@
    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-   
-   
-   <a href="#" target="_blank"> <img align="right" src="https://i.ibb.co/xY3tDVT/kyle.png" /> </a> 
-### My favorite Developers + Teachers:
-  - I'm a proud lifetime member of fireship.io: https://github.com/fireship-io
-  - David Gray: https://github.com/gitdagray
-  - Tom Phillips: https://github.com/tomphill
-  - Jack Herrington: https://github.com/jherr
-  - Web Dev Simplified: https://github.com/WebDevSimplified
-  - Kevin Powell: https://github.com/kevin-powell
-  - The Net Ninja (Shaun JP) - Shoutout: His courses taught me most of the basics up until next-js: https://github.com/iamshaunjp
-  - ChatGPT ... cause let's be honest, taking the potential learning experince from it for granted is a waste.
+   <a href="#" target="_blank"> <img align="right" src="https://i.ibb.co/xY3tDVT/kyle.png" /> </a>
   
      
 ## Courses I've completed:
