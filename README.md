@@ -1,7 +1,6 @@
 <h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> Hey, I'm Michael. Welcome!</h1>
 
 ##                                                 <a href="#" target="_blank"> <img src="https://i.ibb.co/M8M8Vkr/megaman.png" /> </a>  About Me
-  - Open to collaboration on **OpenSource Projects**.
   - You can reach me at: **240designworks@gmail.com**.
 
   - About Myself : 
