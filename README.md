@@ -53,6 +53,7 @@
   
      
 ## Courses I've completed:
+(LinkedIn links will reroute directly to each Udemy certificate)
 Certificate Link: https://lnkd.in/g22qN72K #ecommerce #api #stripe <br/>
 Certificate Link: https://lnkd.in/gwXBy46r #next #nextJS #SSR #ISR #hasura #next13  <br/>
 Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack <br/>
