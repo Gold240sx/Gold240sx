@@ -48,7 +48,6 @@
    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-   <a href="#" target="_blank"> <img align="right" src="https://i.ibb.co/xY3tDVT/kyle.png" /> </a>
   
      
 ## Courses I've completed:
