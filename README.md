@@ -1,19 +1,18 @@
 <h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> Hey, I'm Michael. Welcome!</h1>
 
-##                                                 <a href="#" target="_blank"> <img src="https://i.ibb.co/M8M8Vkr/megaman.png" /> </a>  About Me
+## About Me
   - You can reach me at: **240designworks@gmail.com**.
 
   - About Myself : 
       - I'm a Typescript Software/Web Dev working towards a comprehensive full-stack portfolio and skillset.
       - Diligent, attentive and creative problem solver with an exceptional ability to focus.
       - Former art student, salesperson, and business owner.
-      - I love mountain biking, building racecars, DIY, and the general creative process. (Yes, I own an S13)
+      - I love mountain biking, building racecars, DIY, and the general creative process.
     
 ## Languages and Tools:
 
 <p align="center">
  <p align="center">
-   <a href="https://www.figma.com/" target="_blank"><img style="height: 50px; marginTop: 3px;" src="https://i.ibb.co/0FJ39J4/png-transparent-figma-app-logo-tech-companies-thumbnail.png"/></a>
        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
