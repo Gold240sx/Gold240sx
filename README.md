@@ -4,7 +4,7 @@
   - You can reach me at: **240designworks@gmail.com**.
 
   - About Myself : 
-      - I'm a Typescript Software/Web Dev working towards a comprehensive full-stack portfolio and skillset.
+      - I'm a Typescript Software, Mobile App, & Web Developer working towards a comprehensive full-stack portfolio and skillset.
       - Diligent, attentive and creative problem solver with an exceptional ability to focus.
       - Former art student, salesperson, and business owner.
       - I love mountain biking, building racecars, DIY, and the general creative process.
