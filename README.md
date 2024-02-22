@@ -5,6 +5,7 @@
 
   - About Myself : 
       - I'm a Typescript Software, Mobile App, & Web Developer working towards a comprehensive full-stack portfolio and skillset.
+      - Currently Studying Swift
       - Diligent, attentive and creative problem solver with an exceptional ability to focus.
       - Former art student, salesperson, and business owner.
       - I love mountain biking, building racecars, DIY, and the general creative process.
