@@ -3,9 +3,10 @@
 ## About Me
   - You can reach me at: **240designworks@gmail.com**.
 
-  - About Myself : 
-      - I'm a Typescript Software, Mobile App, & Web Developer working towards a comprehensive full-stack portfolio and skillset.
-      - Currently Studying Swift
+  - About Myself :
+      - Languages & Frameworks: TypeScript (Next.JS, ReactNative), Swift.
+      - Product Types: Software, Mobile App, & Web Apps
+      - Working towards a full-stack portfolio and skillset.
       - Diligent, attentive and creative problem solver with an exceptional ability to focus.
       - Former art student, salesperson, and business owner.
       - I love mountain biking, building racecars, DIY, and the general creative process.
