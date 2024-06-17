@@ -1,7 +1,7 @@
 <h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> Hey, I'm Michael. Welcome!</h1>
 
 ## About Me
-  - You can reach me at: **240designworks@gmail.com**.
+  - You can reach me at: **michael@mmartell.dev**.
 
   - About Myself :
       - Languages & Frameworks: TypeScript (Next.JS, ReactNative), Swift.
