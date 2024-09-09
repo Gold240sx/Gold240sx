@@ -10,6 +10,9 @@
       - Diligent, attentive and creative problem solver with an exceptional ability to focus.
       - Former art student, salesperson, and business owner.
       - I love mountain biking, building racecars, DIY, and the general creative process.
+   
+        
+<a href="https://app.daily.dev/gold240sx"><img src="https://api.daily.dev/devcards/v2/dw468jwH0IjuJM9aWxAsW.png?type=wide&r=0ol" width="652" alt="Michael Martell's Dev Card"/></a>
     
 ## Languages and Tools:
 
