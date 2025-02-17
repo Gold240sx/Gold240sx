@@ -1,12 +1,3 @@
-<p align="center">
-    <img 
-        style="" 
-        src="https://i.ibb.co/wNMYwhXB/ios-Nextjs.jpg" 
-        alt="ios-Nextjs" 
-        border="0"
-    />
-</p>
-
 <h1 align="center">
   <img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0">
   Hey, I'm Michael Martell. Welcome!
