@@ -6,7 +6,7 @@
 ## 🏅 About Me
 - 📧 Contact me: **[michael@mmartell.dev](mailto:michael@mmartell.dev)**
 - 💡 Diligent, attentive, and creative problem solver with a strong ability to focus
-- 🎨 Artist and front-end developer
+- 👨‍🎨 Artist and front-end developer
 - 💼 Former salesperson and business owner
 - 🚴 I enjoy mountain biking, building racecars, DIY projects, and the creative process
 
@@ -20,7 +20,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/Shadcn-black?logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E78B2?logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-1E1E1E?logo=drizzle&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
@@ -28,13 +29,20 @@
 ![PostHog](https://img.shields.io/badge/PostHog-FF3B3B?logo=posthog&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-blue?logoColor=white)
 ![React Email](https://img.shields.io/badge/React_Email-61DAFB?logo=react&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-FF9900?logo=shopify&logoColor=white)
 
 ### 📱 Mobile App Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Swift Data](https://img.shields.io/badge/Swift_Data-FA7343?logo=swift&logoColor=white)
 ![AppleML](https://img.shields.io/badge/AppleML-000000?logo=apple&logoColor=white)
-![Create_with_Play](https://img.shields.io/badge/Create_with_Play-0084FF?logoColor=white)
+![Play2](https://img.shields.io/badge/Create_with_Play-0084FF?logoColor=white)
 ![Skip](https://img.shields.io/badge/Skip-2563EB?logoColor=white)
+
+### 🎨✨ UI Development
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Play](https://img.shields.io/badge/Play-31A8FF?logo=play&logoColor=white)
 
 ---
      
