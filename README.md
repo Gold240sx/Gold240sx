@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://i.ibb.co/b5Y5pG9x/f0199257-ea5f-4198-a942-73ac0860006c.webp">
-    <img src="https://i.ibb.co/b5Y5pG9x/f0199257-ea5f-4198-a942-73ac0860006c.webp" alt="f0199257-ea5f-4198-a942-73ac0860006c" border="0">
-  </a>
+    <img style="height: 200px;" src="https://i.ibb.co/wNMYwhXB/ios-Nextjs.jpg" alt="ios-Nextjs" border="0">
 </p>
 
 <h1 align="center">
