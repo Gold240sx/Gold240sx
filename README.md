@@ -1,13 +1,16 @@
-<h1 align="center"><img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0"> Hey, I'm Michael. Welcome!</h1>
+<h1 align="center">
+  <img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0">
+  Hey, I'm Michael Martell. Welcome!
+</h1>
 
 ## 🏅 About Me
-  - You can reach me at: **michael@mmartell.dev**.
-  - Diligent, attentive and creative problem solver with an exceptional ability to focus
-  - Artist, and front-end developer
-  - Former salesperson, and business owner
-  - I love mountain biking, building racecars, DIY, and the general creative process
-    
-    <br/><br/>
+- 📧 Contact me: **[michael@mmartell.dev](mailto:michael@mmartell.dev)**
+- 💡 Diligent, attentive, and creative problem solver with a strong ability to focus
+- 🎨 Artist and front-end developer
+- 💼 Former salesperson and business owner
+- 🚴 I enjoy mountain biking, building racecars, DIY projects, and the creative process
+
+---
     
 ## 🚀 Languages and Tools:
 
@@ -33,23 +36,33 @@
 ![Create_with_Play](https://img.shields.io/badge/Create_with_Play-0084FF?logoColor=white)
 ![Skip](https://img.shields.io/badge/Skip-2563EB?logoColor=white)
 
-  <br/><br/>
+---
      
 ## 🏫 Courses I've completed:
-(LinkedIn links will reroute directly to each Udemy certificate) <br/>
-Certificate Link: https://lnkd.in/gZkYtqav #swift #swiftdata #ios #macos #apple <br/>
-Certificate Link: https://lnkd.in/g22qN72K #ecommerce #api #stripe <br/>
-Certificate Link: https://lnkd.in/gwXBy46r #next #nextJS #SSR #ISR #hasura #next13  <br/>
-Certificate Link: https://lnkd.in/ginHiAYr #supabase #serverless #SQL #Jamstack <br/>
-Certificate Link: https://lnkd.in/gRRR_pxw #prisma #nextjs #trpc <br/>
-Certificate Link: https://lnkd.in/d3qzRAYe #tailwindcss #tailwind #css <br/>
-Certificate Link: https://lnkd.in/g3h8s4Ep #Email #EmailResponsive <br/>
-Certificate Link: https://lnkd.in/gaW4WYNG #dataVisualizations #d3 <br/>
-Certificate Link: https://lnkd.in/gwVaiqRH #reactPortfolio <br/>
-Certificate Link: https://lnkd.in/g3fmVNRF #react #reactjs #firebase <br/>
-Certificate Link: https://lnkd.in/gdPeeaEE #javascript #vanillajs <br/>
+> *(LinkedIn links will reroute directly to each Udemy certificate)*  
 
-<br/><br/>
+- 📜 [Swift, Swift Data, iOS, macOS](https://lnkd.in/gZkYtqav) `#swift #swiftdata #ios #macos #apple` ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) 
+- 📜 [Ecommerce API with Stripe](https://lnkd.in/g22qN72K) `#ecommerce #api #stripe`  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+- 📜 [Next.js 13, SSR, ISR, Hasura](https://lnkd.in/gwXBy46r) `#next #nextJS #SSR #ISR #hasura #next13` ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+- 📜 [Supabase & Serverless SQL](https://lnkd.in/ginHiAYr) `#supabase #serverless #SQL #Jamstack` ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+- 📜 [Prisma, Next.js, tRPC](https://lnkd.in/gRRR_pxw) `#prisma #nextjs #trpc`  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+- 📜 [Tailwind CSS Deep Dive](https://lnkd.in/d3qzRAYe) `#tailwindcss #tailwind #css`  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- 📜 [Responsive Email Development](https://lnkd.in/g3h8s4Ep) `#Email #EmailResponsive` 📨 
+- 📜 [Data Visualizations with D3.js](https://lnkd.in/gaW4WYNG) `#dataVisualizations #d3`  ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white)
+- 📜 [React Portfolio Projects](https://lnkd.in/gwVaiqRH) `#reactPortfolio`  ![React Email](https://img.shields.io/badge/React_Email-61DAFB?logo=react&logoColor=white)
+- 📜 [React & Firebase](https://lnkd.in/g3fmVNRF) `#react #reactjs #firebase`  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+- 📜 [Vanilla JavaScript](https://lnkd.in/gdPeeaEE) `#javascript #vanillajs`  ![Vanilla_JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black)
 
+
+### 🛠️ Additional Tools
+
+
+
+
+
+
+---
+
+## 🧑‍💻 My Dev Card
 <a href="https://app.daily.dev/gold240sx"><img src="https://api.daily.dev/devcards/v2/dw468jwH0IjuJM9aWxAsW.png?type=wide&r=0ol" width="652" alt="Michael Martell's Dev Card"/></a>
 
