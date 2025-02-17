@@ -53,14 +53,6 @@
 - 📜 [React & Firebase](https://lnkd.in/g3fmVNRF) `#react #reactjs #firebase`  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 - 📜 [Vanilla JavaScript](https://lnkd.in/gdPeeaEE) `#javascript #vanillajs`  ![Vanilla_JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black)
 
-
-### 🛠️ Additional Tools
-
-
-
-
-
-
 ---
 
 ## 🧑‍💻 My Dev Card
