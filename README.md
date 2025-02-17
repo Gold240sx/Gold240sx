@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://i.ibb.co/b5Y5pG9x/f0199257-ea5f-4198-a942-73ac0860006c.webp">
+    <img src="https://i.ibb.co/b5Y5pG9x/f0199257-ea5f-4198-a942-73ac0860006c.webp" alt="f0199257-ea5f-4198-a942-73ac0860006c" border="0">
+  </a>
+</p>
+
 <h1 align="center">
   <img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0">
   Hey, I'm Michael Martell. Welcome!
