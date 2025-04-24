@@ -6,7 +6,7 @@
 ## 🏅 About Me
 - 📧 Contact me: **[michael@mmartell.dev](mailto:michael@mmartell.dev)**
 - 💡 Diligent, attentive, and creative problem solver with a strong ability to focus
-- 👨‍🎨 Artist and front-end developer
+- 👨‍🎨 Artist and full-stack engineer (Web & iOS/macOS ecosystems)
 - 💼 Former salesperson and business owner
 - 🚴 I enjoy mountain biking, building racecars, DIY projects, and the creative process
 
