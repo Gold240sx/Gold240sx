@@ -22,6 +22,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-1E1E1E?logo=drizzle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E78B2?logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
@@ -47,8 +48,9 @@
 ---
      
 ## 🏫 Courses I've completed:
-> *(LinkedIn links will reroute directly to each Udemy certificate)*  
+> *(LinkedIn links will reroute directly to each Udemy certificate)*
 
+- 📜 [PostgreSQL](https://lnkd.in/dq_QAPQS) `#PostgreSQL #SQL #DataAnalytics` ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 - 📜 [Swift, Swift Data, iOS, macOS](https://lnkd.in/gZkYtqav) `#swift #swiftdata #ios #macos #apple` ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) 
 - 📜 [Ecommerce API with Stripe](https://lnkd.in/g22qN72K) `#ecommerce #api #stripe`  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
 - 📜 [Next.js 13, SSR, ISR, Hasura](https://lnkd.in/gwXBy46r) `#next #nextJS #SSR #ISR #hasura #next13` ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
