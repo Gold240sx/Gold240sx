@@ -51,7 +51,9 @@
 > *(LinkedIn links will reroute directly to each Udemy certificate)*
 
 - 📜 [PostgreSQL](https://lnkd.in/dq_QAPQS) `#PostgreSQL #SQL #DataAnalytics` ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-- 📜 [Swift, Swift Data, iOS, macOS](https://lnkd.in/gZkYtqav) `#swift #swiftdata #ios #macos #apple` ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) 
+- 📜 [Swift, Swift Data, iOS, macOS](https://lnkd.in/gZkYtqav) `#swift #swiftdata #ios #macos #apple` ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+- 📜 [GSAP](https://lnkd.in/g22qN72K) `#GSAP #Animations #UIDesign` ![GSAP]
+- 📜 [Typescript](https://lnkd.in/gitKtMiT) `#typescript #OOP #decorators #express` ![Typescript]
 - 📜 [Ecommerce API with Stripe](https://lnkd.in/g22qN72K) `#ecommerce #api #stripe`  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
 - 📜 [Next.js 13, SSR, ISR, Hasura](https://lnkd.in/gwXBy46r) `#next #nextJS #SSR #ISR #hasura #next13` ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 - 📜 [Supabase & Serverless SQL](https://lnkd.in/ginHiAYr) `#supabase #serverless #SQL #Jamstack` ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
