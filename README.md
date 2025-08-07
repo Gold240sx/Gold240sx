@@ -25,6 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E78B2?logoColor=white)
+![Hygraph](https://img.shields.io/badge/hygraph-FFFFFF?logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-FF3B3B?logo=posthog&logoColor=white)
