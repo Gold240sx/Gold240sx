@@ -4,7 +4,7 @@
 </h1>
 
 ## 🏅 About Me
-- 📧 Contact me: **[michael@mmartell.dev](mailto:240designworks@gmail.com)**
+- 📧 Contact me: **[240designworks@gmail.com](mailto:240designworks@gmail.com)**
 - 💡 Diligent, attentive, and creative problem solver with a strong ability to focus
 - 👨‍🎨 Artist and full-stack engineer (Web & iOS/macOS ecosystems)
 - 💼 Former salesperson and business owner
@@ -38,7 +38,8 @@
 ![Swift Data](https://img.shields.io/badge/Swift_Data-FA7343?logo=swift&logoColor=white)
 ![AppleML](https://img.shields.io/badge/AppleML-000000?logo=apple&logoColor=white)
 ![Play2](https://img.shields.io/badge/Create_with_Play-0084FF?logoColor=white)
-![Skip](https://img.shields.io/badge/Skip-2563EB?logoColor=white)
+![PowerSync](https://img.shields.io/badge/PowerSync-551075?logoColor=aqua)
+![SkipTools](https://img.shields.io/badge/Skip-2563EB?logoColor=white)
 
 ### 🎨✨ UI Development
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
