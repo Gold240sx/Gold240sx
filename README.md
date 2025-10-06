@@ -32,14 +32,16 @@
 ![Resend](https://img.shields.io/badge/Resend-blue?logoColor=white)
 ![React Email](https://img.shields.io/badge/React_Email-61DAFB?logo=react&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-FF9900?logo=shopify&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-08E600?logo=vercel&logoColor=white)
 
 ### 📱 Mobile App Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-![Swift Data](https://img.shields.io/badge/Swift_Data-FA7343?logo=swift&logoColor=white)
+![Swift Data](https://img.shields.io/badge/Swift_Data-5E5F64?logo=swift&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/Swift_Testing-31930B?logo=swift&logoColor=white)
 ![AppleML](https://img.shields.io/badge/AppleML-000000?logo=apple&logoColor=white)
-![Play2](https://img.shields.io/badge/Create_with_Play-0084FF?logoColor=white)
 ![PowerSync](https://img.shields.io/badge/PowerSync-551075?logoColor=aqua)
-![SkipTools](https://img.shields.io/badge/Skip-2563EB?logoColor=white)
+![Play2](https://img.shields.io/badge/Create_with_Play-000000?logoColor=white)
+![SkipTools](https://img.shields.io/badge/SkipTools-2563EB?logoColor=white)
 
 ### 🎨✨ UI Development
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -54,8 +56,8 @@
 
 - 📜 [PostgreSQL](https://lnkd.in/dq_QAPQS) `#PostgreSQL #SQL #DataAnalytics` ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 - 📜 [Swift, Swift Data, iOS, macOS](https://lnkd.in/gZkYtqav) `#swift #swiftdata #ios #macos #apple` ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-- 📜 [GSAP](https://lnkd.in/g22qN72K) `#GSAP #Animations #UIDesign` ![GSAP]
-- 📜 [Typescript](https://lnkd.in/gitKtMiT) `#typescript #OOP #decorators #express` ![Typescript]
+- 📜 [GSAP](https://lnkd.in/g22qN72K) `#GSAP #Animations #UIDesign` ![GSAP](https://img.shields.io/badge/GSAP-08E600?logo=vercel&logoColor=white)
+- 📜 [Typescript](https://lnkd.in/gitKtMiT) `#typescript #OOP #decorators #express` ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 - 📜 [Ecommerce API with Stripe](https://lnkd.in/g22qN72K) `#ecommerce #api #stripe`  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
 - 📜 [Next.js 13, SSR, ISR, Hasura](https://lnkd.in/gwXBy46r) `#next #nextJS #SSR #ISR #hasura #next13` ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 - 📜 [Supabase & Serverless SQL](https://lnkd.in/ginHiAYr) `#supabase #serverless #SQL #Jamstack` ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
