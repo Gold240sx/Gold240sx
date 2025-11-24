@@ -1,10 +1,10 @@
 <h1 align="center">
   <img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0">
   Hey, I'm Michael Martell. Welcome!
+  </ - 📧 Contact me: **[240designworks@gmail.com](mailto:240designworks@gmail.com)** />
 </h1>
 
 ## 🏅 About Me
-- 📧 Contact me: **[240designworks@gmail.com](mailto:240designworks@gmail.com)**
 - 💡 Diligent, attentive, and creative problem solver with a strong ability to focus
 - 👨‍🎨 Artist and full-stack engineer (Web & iOS/macOS ecosystems)
 - 💼 Former salesperson and business owner
