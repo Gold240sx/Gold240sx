@@ -23,6 +23,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-1E1E1E?logo=drizzle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Convex DB](https://img.shields.io/badge/Convex_DB-FF9900?logo=convex&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E78B2?logoColor=white)
 ![Hygraph](https://img.shields.io/badge/hygraph-FFFFFF?logoColor=white)
@@ -42,6 +43,7 @@
 ![PowerSync](https://img.shields.io/badge/PowerSync-551075?logoColor=aqua)
 ![Play2](https://img.shields.io/badge/Create_with_Play-000000?logoColor=white)
 ![SkipTools](https://img.shields.io/badge/SkipTools-2563EB?logoColor=white)
+![Sparkle](https://img.shields.io/badge/Sparkle-2563EB?logoColor=blue)
 
 ### 🎨✨ UI Development
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
