@@ -35,7 +35,7 @@
 ![Liquid](https://img.shields.io/badge/Liquid-FF9900?logo=shopify&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-08E600?logo=vercel&logoColor=white)
 
-### 📱 Mobile App Development
+### 📱 Mobile App + MacOS Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Swift Data](https://img.shields.io/badge/Swift_Data-5E5F64?logo=swift&logoColor=white)
 ![Swift Testing](https://img.shields.io/badge/Swift_Testing-31930B?logo=swift&logoColor=white)
