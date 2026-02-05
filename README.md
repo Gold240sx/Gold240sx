@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0">
-  Hey, I'm Michael Martell. Welcome!
+  The Github Repository of Michael Martell.
   </ - 📧 Contact me: **[240designworks@gmail.com](mailto:240designworks@gmail.com)** />
 </h1>
 
@@ -53,6 +52,20 @@
 
 ---
 
+## 🧰 My Apps
+
+### 🌐 Web Apps
+
+- <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f981e64f-69eb-412e-bb36-8ab044c17b61-bbkzdd.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>Business In a Box</b></a> — In Development.</span>
+  <br/>
+  <sub>Next.js Web app for automating common business tasks and (user-facing) authenticated dashboard for Modern Next.js Websites + Web Apps </sub>
+
+### 📱 iOS / MacOS Apps   <img style="height: 50px;" src="https://i.ibb.co/6r6jTmH/mac.png" alt="mac" border="0">
+
+- <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f04e8dfb-fbda-43aa-8da6-a640efc41c2d-hmuqn1.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>SCR4TCH</b></a> — Feature Rich Quick Notepad for MacOS, iOS, iPadOS + VisionOS</span>
+  <br/>
+  <sub>Coming Soon</sub>
+
 ---
 
 ## 🚀 My Opensource Packages
@@ -87,6 +100,61 @@
       <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>UploadThing-Swift</b></a>
       - Plug &amp; Play SPM package for SwiftData &amp; SwiftUI UploadThing Support.
     </span>
+  </li>
+
+ <li>
+  <span style="display:inline-flex;align-items:center;gap:8px;">
+    <img
+      src="https://utfs.io/f/517bead5-96d6-440a-be37-dc2c5f1caa8a-57p6b3.png"
+      width="25"
+      height="25"
+      alt="SCR4TCHKit"
+      style="vertical-align:middle; position:relative; top:2px;"
+    />
+    <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>SCR4TCHKit</b></a>
+    <span>— A SwiftUI native block-based editor (Notion / TipTap-style).</span>
+  </span>
+
+  <div style="margin-left:50px;">
+    <p>
+      My app SCR4TCH (awaiting App Store upload &amp; review) showcases the full functionality of the editor.
+    </p>
+    <p><b>Includes</b></p>
+      <ul>
+        <li>Adapters for data export and crud functionality for SwiftData & PowerSync (More available on Request, or contribute to it yourself!</li>
+        <li>Native & Responsive Rich Text Editing for macOS+ (bold / Italic Relies on native API's for macOS26+ and RichTextEditor for macOS 15</li>
+        <li>API Layer for Version Control Support</li>
+        <li>Written for complete iCloud Support (for cross-platform sync on Apple Devices sharing the same User)</li>
+        <li>Tags + Category Support for search and organization functionality</li>
+        <li>Drag and Drop Element Support for rearranging existing Elements</li>
+        <li>Feature-rich element selection 
+          <div style="margin-left:33px;">
+            <ul>
+              <li>Text Blocks</li>
+              <li>Quotes</li>
+              <li>Tables Comprehensive Editing and options</li>
+              <li>Reminders with Notifications</li>
+              <li>Collapsable Accordians with nested element support</li>
+              <li>Resizable Image Display (JPG, JPEG, PNG, SVG, GIF Support (probably more)</li>
+              <li>Resizable Columns with nested element support</li>
+              <li>Code Block with language Syntax Highlighting</li>
+              <li>Lists (orderd, unordered, and Checkbox)</li>
+              <li>Local File Bookmarks (click to open in finder)</li>
+              <li>Rich URL Bookmarks (open in default browser - includes auto fetch of site name, description, favicon, and Twitter Card preview</li>
+              <li>Embedded Video Player Support for Youtube and Vimeo With PiP (Player in Player) NSWindow for watching continually in the background</li>
+            </ul>
+          </div>
+        </li>
+        <li>Resizable images (JPG/JPEG/PNG/SVG/GIF, likely more)</li>
+        <li>Resizable columns with nested element support</li>
+        <li>Code blocks with syntax highlighting</li>
+        <li>Lists (ordered, unordered, checklist)</li>
+        <li>Local file bookmarks (click to open in Finder)</li>
+        <li>Rich URL bookmarks (title/description/favicon/Twitter card preview)</li>
+        <li>YouTube/Vimeo embeds + PiP window</li>
+        <li>Drag &amp; drop element support</li>
+      </ul>
+    </div>
   </li>
 </ul>
 
