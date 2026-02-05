@@ -52,6 +52,49 @@
 ![Play](https://img.shields.io/badge/Play-31A8FF?logo=play&logoColor=white)
 
 ---
+
+---
+
+## 🚀 My Opensource Packages
+
+### ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) - (SPM packages for native Swift / SwiftUI projects.)
+
+<br/>
+<ul>
+  <li>
+    <span style="display:inline-flex;align-items:center;gap:8px;">
+      <img
+        src="https://utfs.io/f/bd3d5cad-5e86-42c4-9d22-cd5e4d7e6792-wc6ubf.png"
+        width="25"
+        height="25"
+        alt="WorkOS-Swift"
+        style="vertical-align:middle; position:relative; top:2px;"
+      />
+      <a href="https://github.com/Gold240sx/WorkOS-Swift"><b>WorkOS-Swift</b></a>
+      - Plug &amp; Play SPM package [adapter] for incorporating WorkOS into native Swift / SwiftUI apps.
+    </span>
+  </li>
+
+  <li>
+    <span style="display:inline-flex;align-items:center;gap:8px;">
+      <img
+        src="https://utfs.io/f/b15c225e-f54d-4c75-87f2-7f1ab531008d-bek8zx.png"
+        width="25"
+        height="25"
+        alt="UploadThing-Swift"
+        style="vertical-align:middle; position:relative; top:2px;"
+      />
+      <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>UploadThing-Swift</b></a>
+      - Plug &amp; Play SPM package for SwiftData &amp; SwiftUI UploadThing Support.
+    </span>
+  </li>
+</ul>
+
+
+
+
+
+---
      
 ## 🏫 Courses I've completed:
 > *(LinkedIn links will reroute directly to each Udemy certificate)*
