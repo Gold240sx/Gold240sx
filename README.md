@@ -1,4 +1,9 @@
 <h1 align="center">Michael Martell</h1>
+
+<p align="center">
+  Senior iOS / macOS & Full-Stack Engineer • Product-Focused • OSS Builder
+</p>
+
 <br/>
 
 ## 🏅 About Me
@@ -98,21 +103,49 @@
 ### 📱 iOS / 💻 MacOS Apps
 
 <details>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/3baaca2d-9a6b-4b2d-89cc-2416e16f7104-3edtk7.svg" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>DevSpace Pro</b></a> — 📁 The ultimate developer platform For Managing Coding Projects lifecycles, and content</span> <br/></summary>
+  
+  - Over a year in the work, but deep in development
+  - (Private Repo)
+  </details>
+
+<details>
     <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f04e8dfb-fbda-43aa-8da6-a640efc41c2d-hmuqn1.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>SCR4TCH</b></a> — Feature Rich Quick Notepad for MacOS, iOS, iPadOS + VisionOS</span></summary>
   <em>Coming Soon...</em>
   </details>
 
 
   <details>
-    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>L1nK</b></a> — 📑 A Menubar application For Bookmarks + Proprietary</span> <br/></summary>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>L1nK</b></a> — 📑 A Menubar application For Bookmarks + Proprietary File Format</span> <br/></summary>
   - One Click Save Bookmark to File, and One Click open
   - Folder Organized Tab / Bookmarks manager
   </details>
   <br/>
 
-## 🚀 My Opensource Packages
+### 🧩 My Open-Source Packages
 
-### ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) - (SPM packages for native Swift / SwiftUI projects.)
+#### 🔌 API's
+
+<br/>
+<ul>
+  <li>
+    <span style="display:inline-flex;align-items:center;gap:8px;">
+      <img
+        src="https://utfs.io/f/22a0b78c-97f0-47c9-929c-8858ae485f8e-1o1ce.svg"
+        width="25"
+        height="25"
+        alt="ZyraForm"
+        style="vertical-align:middle; position:relative; top:2px;"
+      />
+      <a href="https://github.com/Gold240sx/ZeraForm"><b>ZyraForm</b></a>
+      - A Declaritive Universal Schema + Orm agnostic Library for Unified Postgres Schema + Front-end Form Validation
+      - <a href="https://github.com/Gold240sx/ZeraForm">Docs</a>
+    </span>
+  </li>
+</ul>
+<br/>
+
+#### ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) - (SPM packages for native Swift / SwiftUI projects.)
 
 <br/>
 <ul>
@@ -154,50 +187,48 @@
       style="vertical-align:middle; position:relative; top:2px;"
     />
     <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>SCR4TCHKit</b></a>
-    <span>— A SwiftUI native block-based editor (Notion / TipTap-style).</span>
+    <span>— A block-based text-editor API built fully in SwiftUI (Notion / TipTap-style).</span>
   </span>
 
   <div style="margin-left:100px;">
     <details>
+         <summary><strong>Read More:</strong></summary>
+     <br/>
       <p>
-        My app SCR4TCH (awaiting App Store upload &amp; review) showcases the full functionality of the editor.
+       <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f04e8dfb-fbda-43aa-8da6-a640efc41c2d-hmuqn1.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>SCR4TCH</b></a></span> showcases the full functionality of the editor. (awaiting App Store upload &amp; review)
       </p>
-    <p><b>Includes</b></p>
+    <p><b>Includes:</b></p>
+     <br/>
       <ul>
-        <li>Adapters for data export and crud functionality for SwiftData & PowerSync (More available on Request, or contribute to it yourself!</li>
-        <li>Native & Responsive Rich Text Editing for macOS+ (bold / Italic Relies on native API's for macOS26+ and RichTextEditor for macOS 15</li>
-        <li>API Layer for Version Control Support</li>
-        <li>Written for complete iCloud Support (for cross-platform sync on Apple Devices sharing the same User)</li>
-        <li>Tags + Category Support for search and organization functionality</li>
-        <li>Drag and Drop Element Support for rearranging existing Elements</li>
-        <li>Feature-rich element selection 
+        <li>🔌 Adapters for data export and crud functionality for SwiftData & PowerSync (More available on Request, or contribute to it yourself!</li>
+        <li>✍️ Native & Responsive Rich Text Editing for macOS+ (bold / Italic Relies on native API's for macOS26+ and RichTextEditor for macOS 15</li>
+        <li>🧬 API Layer for Version Control Support</li>
+        <li>☁️ Written for complete iCloud Support (for cross-platform sync on Apple Devices sharing the same User)</li>
+        <li>🏷️ Tags + Category Support for search and organization functionality</li>
+        <li>🧲 Drag and Drop Element Support for rearranging existing Elements</li>
+        <details>
+         <summary><strong>Feature-rich element selection </strong></summary>
           <div style="margin-left:33px;">
             <ul>
-              <li>Text Blocks</li>
-              <li>Quotes</li>
-              <li>Tables Comprehensive Editing and options</li>
-              <li>Reminders with Notifications</li>
-              <li>Collapsable Accordians with nested element support</li>
-              <li>Resizable Image Display (JPG, JPEG, PNG, SVG, GIF Support (probably more)</li>
-              <li>Resizable Columns with nested element support</li>
-              <li>Code Block with language Syntax Highlighting</li>
-              <li>Lists (orderd, unordered, and Checkbox)</li>
-              <li>Local File Bookmarks (click to open in finder)</li>
-              <li>Rich URL Bookmarks (open in default browser - includes auto fetch of site name, description, favicon, and Twitter Card preview</li>
-              <li>Embedded Video Player Support for Youtube and Vimeo With PiP (Player in Player) NSWindow for watching continually in the background</li>
+              <li>📝 Text Blocks</li>
+              <li>💬 Quotes</li>
+              <li>📊 Tables Comprehensive Editing and options</li>
+              <li>⏰ Reminders with Notifications</li>
+              <li>🪜 Collapsable Accordians with nested element support</li>
+              <li>🖼️ Resizable Image Display (JPG, JPEG, PNG, SVG, GIF Support (probably more)</li>
+              <li>🧱 Resizable Columns with nested element support</li>
+              <li>🧠 Code Block with language Syntax Highlighting</li>
+              <li>📋 Lists (orderd, unordered, and Checkbox)</li>
+              <li>📁 Local File Bookmarks (click to open in finder)</li>
+              <li>🔗 Rich URL Bookmarks (open in default browser - includes auto fetch of site name, description, favicon, and Twitter Card preview</li>
+              <li>🎬 Embedded Video Player Support for Youtube and Vimeo With PiP (Player in Player) NSWindow for watching continually in the background</li>
             </ul>
           </div>
-        </li>
-        <li>Resizable images (JPG/JPEG/PNG/SVG/GIF, likely more)</li>
-        <li>Resizable columns with nested element support</li>
-        <li>Code blocks with syntax highlighting</li>
-        <li>Lists (ordered, unordered, checklist)</li>
-        <li>Local file bookmarks (click to open in Finder)</li>
-        <li>Rich URL bookmarks (title/description/favicon/Twitter card preview)</li>
-        <li>YouTube/Vimeo embeds + PiP window</li>
-        <li>Drag &amp; drop element support</li>
+        </details>
       </ul>
       </details>
+         <br/>
+         <br/>
     </div>
   </li>
 </ul>
