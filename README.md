@@ -1,7 +1,7 @@
 <h1 align="center">Michael Martell</h1>
 
 <p align="center">
-  Senior iOS / macOS & Full-Stack Engineer • Product-Focused • OSS Builder
+  Senior iOS / macOS & Full-Stack Engineer • Senior React Developer • OSS Builder • Product-Focused 
 </p>
 
 <br/>
@@ -91,7 +91,7 @@
     <summary>
       <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f981e64f-69eb-412e-bb36-8ab044c17b61-bbkzdd.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>Business In a Box</b></a> — In Development.</span>
     </summary>
-     <sub>Next.js Web app for automating common business tasks and (user-facing) authenticated dashboard for Modern Next.js Websites + Web Apps </sub> <br/>
+     Next.js Web app for automating common business tasks and (user-facing) authenticated dashboard for Modern Next.js Websites + Web Apps <br/>
     <ul>
       <li>One Click Save Bookmark to File, and One Click open</li>
       <li>Folder Organized Tab / Bookmarks manager</li>
@@ -147,8 +147,23 @@
 
 #### ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) - (SPM packages for native Swift / SwiftUI projects.)
 
+These First two packages were built because their documentation didn't offer any official SDKs or adapters, so I built them. 💪
 <br/>
 <ul>
+  <li>
+    <span style="display:inline-flex;align-items:center;gap:8px;">
+      <img
+        src="https://utfs.io/f/b15c225e-f54d-4c75-87f2-7f1ab531008d-bek8zx.png"
+        width="25"
+        height="25"
+        alt="UploadThing-Swift"
+        style="vertical-align:middle; position:relative; top:2px;"
+      />
+      <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>UploadThing-Swift</b></a>
+      - Plug &amp; Play SPM package for SwiftData &amp; SwiftUI UploadThing Support.
+    </span>
+  </li>
+
   <li>
     <span style="display:inline-flex;align-items:center;gap:8px;">
       <img
@@ -166,14 +181,14 @@
   <li>
     <span style="display:inline-flex;align-items:center;gap:8px;">
       <img
-        src="https://utfs.io/f/b15c225e-f54d-4c75-87f2-7f1ab531008d-bek8zx.png"
+        src="https://utfs.io/f/23821a60-1c77-4dcc-a7f9-e7de04a02313-u0w3sh.png"
         width="25"
         height="25"
-        alt="UploadThing-Swift"
+        alt="Swift Select"
         style="vertical-align:middle; position:relative; top:2px;"
       />
-      <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>UploadThing-Swift</b></a>
-      - Plug &amp; Play SPM package for SwiftData &amp; SwiftUI UploadThing Support.
+      <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>Swift Select</b></a>
+      - A Select Dropdown Component wrapped in an SPM Package for easy integration into SwiftUI apps.
     </span>
   </li>
 
@@ -192,7 +207,7 @@
 
   <div style="margin-left:100px;">
     <details>
-         <summary><strong>Read More:</strong></summary>
+         <summary><strong><sub>Read More:</sub></strong></summary>
      <br/>
       <p>
        <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f04e8dfb-fbda-43aa-8da6-a640efc41c2d-hmuqn1.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>SCR4TCH</b></a></span> showcases the full functionality of the editor. (awaiting App Store upload &amp; review)
