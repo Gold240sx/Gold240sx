@@ -83,9 +83,7 @@
 <br/>
 
 
-<h2>🚀 What I’m Building</h2>
-
-### 🌐 Web Apps
+<h2>🚀 My Projects - 🌐 WEB APPS</h2>
 
   <img
     src="https://utfs.io/f/3c2948e1-262e-4cf2-8005-29ee7ac33ed6-ik6cvc.png"
@@ -117,15 +115,16 @@
       <li>Supports Darkmode/multimode, Multi-page & full Multi-language Support</li>
       <li>User and Developer Docs at <a href="https://biab.app"><b>DOCS</b></a></li>
       <li>Starter Templates for 11 different Framework options. Just fork, Tell ChatGPT what you want, and in less than an hour you have a 5-figure web application deliverable to your client can be found <a href="https://github.com/Gold240sx/biab-sdk-starters"><b>HERE</b></a></li>
-     
     </ul>
+    
   </details>
     Support for: <br/>
    <sub>REACT, Vanilla HTML + JS/TS, Next.js / T3 Stack, Vue/Nuxt, Angular, Astro, Svelte, HTMX, QWik, Tanstack Start + Solid, Remix</sub>
-  <br/>
+  <br/><br/>
+  **POWERING:** <span style="display:inline-flex;align-items:center;gap:8px;"><a href="https://davidsgaragepro.com"><img src="https://utfs.io/f/b3d70b64-4927-4481-8488-8e735898435a-em6r8j.png" width="24" height="25" style="vertical-align:middle; position:relative; margin-top:6px;" alt="App Icon" /><b>Davids Garage Pro</b></a></span>
+<br/><br/><br/>
 
-  
-### 📱 iOS / 💻 MacOS Apps
+<h2>🚀 My Projects - 📱 iOS / 💻 MacOS Apps</h2>
 
   <img
     src="https://utfs.io/f/19739520-6e3d-4d43-8b9c-a594578ab088-djbxxr.png"
@@ -142,20 +141,8 @@
   - (Private Repo)
   </details>
 
-<details>
-    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f04e8dfb-fbda-43aa-8da6-a640efc41c2d-hmuqn1.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>SCR4TCH</b></a> — Feature Rich Quick Notepad for MacOS, iOS, iPadOS + VisionOS</span></summary>
-  <em>Coming Soon...</em>
-  </details>
-
-
-  <details>
-    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>L1nK</b></a> — 📑 A Menubar application For Bookmarks + Proprietary File Format</span> <br/></summary>
-  - One Click Save Bookmark to File, and One Click open
-  - Folder Organized Tab / Bookmarks manager
-  </details>
   <br/>
 
-  
   <img
     src="https://utfs.io/f/46e157f8-348e-4780-9be2-f36b54fecdd5-8fe6zt.png"
     width="600"
@@ -166,13 +153,28 @@
 
   <details>
     <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>YOOTube</b></a> — ▶️ A Liquid Glass Native Youtube Player for MacOS</span> <br/></summary>
-  - Includes Que, Miniplayer, pinned Tabs, Theater Mode
+  - Includes Que, Miniplayer, AirPlay, pinned Tabs, Theater Mode
   </details>
   <br/>
 
-### 🧩 My Open-Source Packages
+<details>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f04e8dfb-fbda-43aa-8da6-a640efc41c2d-hmuqn1.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>SCR4TCH</b></a> — Feature Rich Quick Notepad for MacOS, iOS, iPadOS + VisionOS</span></summary>
+  <em>Coming Soon...</em>
+  </details>
+<br/>
 
-#### 📱 Hardware Development
+  <details>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>L1nK</b></a> — 📑 A Menubar application For Bookmarks + Proprietary File Format</span> <br/></summary>
+  - One Click Save Bookmark to File, and One Click open
+  - Folder Organized Tab / Bookmarks manager
+  </details>
+  <br/><br/>
+  <br/>
+
+<h2>🧩 My Open-Source Packages</h2>
+
+### 📱 Hardware Development
+
 <br/>
 <ul>
       <img
@@ -193,6 +195,8 @@
   </li>
 </ul>
 
+<br/><br/>
+<br/><br/>
 
 #### 🔌 API's
 
