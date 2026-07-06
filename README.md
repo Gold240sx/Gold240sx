@@ -152,7 +152,7 @@
   />
 
   <details>
-    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>YOOTube</b></a> — ▶️ A Liquid Glass Native Youtube Player for MacOS</span> <br/></summary>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://pnunoycrixteeuxxpxqi.supabase.co/storage/v1/object/public/paid_storage/users/5d45aac4-10b2-4539-9495-953f5969a5d4/project_media/287a700f-5dc4-4b9b-9ea9-c8489dd6e77e-logo.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>YOOTube</b></a> — ▶️ A Liquid Glass Native Youtube Player for MacOS</span> <br/></summary>
   - Includes Que, Miniplayer, AirPlay, pinned Tabs, Theater Mode
   </details>
   <br/>
