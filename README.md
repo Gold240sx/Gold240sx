@@ -111,7 +111,7 @@
     
   <br/>
     <ul>
-      <li>Includes MCP Server, NPM Package</li>
+      <li>Includes MCP Server, NPM Package <a href="https://www.npmjs.com/package/@biab-dev/sdk"><b>HERE</b></a></li></li>
       <li>Supports Darkmode/multimode, Multi-page & full Multi-language Support</li>
       <li>User and Developer Docs at <a href="https://biab.app"><b>DOCS</b></a></li>
       <li>Starter Templates for 11 different Framework options. Just fork, Tell ChatGPT what you want, and in less than an hour you have a 5-figure web application deliverable to your client can be found <a href="https://github.com/Gold240sx/biab-sdk-starters"><b>HERE</b></a></li>
@@ -119,7 +119,10 @@
     
   </details>
     Support for: <br/>
-   <sub>REACT, Vanilla HTML + JS/TS, Next.js / T3 Stack, Vue/Nuxt, Angular, Astro, Svelte, HTMX, QWik, Tanstack Start + Solid, Remix</sub>
+    
+  [![SupportFor](https://skillicons.dev/icons?i=angular,html,htmx,nextjs,react,remix,solidjs,svelte,vue&perline=9)](https://skillicons.dev)
+  
+   <sub>and more!</sub>
   <br/><br/>
   **POWERING:** <span style="display:inline-flex;align-items:center;gap:8px;"><a href="https://davidsgaragepro.com"><img src="https://utfs.io/f/b3d70b64-4927-4481-8488-8e735898435a-em6r8j.png" width="24" height="25" style="vertical-align:middle; position:relative; margin-top:6px;" alt="App Icon" /><b>Davids Garage Pro</b></a></span>
 <br/><br/><br/>
