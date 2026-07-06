@@ -86,21 +86,54 @@
 <h2>🚀 What I’m Building</h2>
 
 ### 🌐 Web Apps
-  
+
+  <img
+    src="https://utfs.io/f/3c2948e1-262e-4cf2-8005-29ee7ac33ed6-ik6cvc.png"
+    width="600"
+    height="350"
+    alt="Business Dash"
+    style="vertical-align:middle; position:relative; top:2px;"
+  />
+      
   <details>
     <summary>
-      <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/f981e64f-69eb-412e-bb36-8ab044c17b61-bbkzdd.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>Business In a Box</b></a> — In Development.</span>
+      <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/14567eed-55ac-4ec6-badf-e4f852eb7f92-1cq6x.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="https://biab.app"><b>Business Dash (Formerly Business In a Box) - https://biab.app </b></a></span>
     </summary>
-     Next.js Web app for automating common business tasks and (user-facing) authenticated dashboard for Modern Next.js Websites + Web Apps <br/>
+     You build the website, Business Dash is the Dashboard to configure it for your clients. Includes all the menotinous stuff (blog, auth, chatbot, crm, email notifications, form builder, ai assistant, and wayyyy wayyy more) so you can focus on the Look and feel, and move on. The FASTEST 0-1 deliverable time to deploy you'll ever use!
+
+    How Does it work?
+
+    1. Fork Starter Template of choice
+    2. Ask AI to build your desired site on the template.
+    3. When you are happy with it, ask AI to export all static data values to a JSON file
+    4. Get your API Key from https://biab.app and save it to your env file
+    5. Build a schema defining the typing of all the static data across your site (one-time/multi-time appearing text/images/links/tables/etc) (see docs and starter templates for example). The MCP also works well with this.
+    5. Push your schema through the CLI, and accept the push in the BIAB database.
+    6. Seed your JSON File to BIAB from the CLI to see it and your content live on your website, and in your BIAB dashboard.
+    
+  <br/>
     <ul>
-      <li>One Click Save Bookmark to File, and One Click open</li>
-      <li>Folder Organized Tab / Bookmarks manager</li>
+      <li>Includes MCP Server, NPM Package</li>
+      <li>Supports Darkmode/multimode, Multi-page & full Multi-language Support</li>
+      <li>User and Developer Docs at <a href="https://biab.app"><b>DOCS</b></a></li>
+      <li>Starter Templates for 11 different Framework options. Just fork, Tell ChatGPT what you want, and in less than an hour you have a 5-figure web application deliverable to your client can be found <a href="https://github.com/Gold240sx/biab-sdk-starters"><b>HERE</b></a></li>
+     
     </ul>
   </details>
+    Support for: <br/>
+   <sub>REACT, Vanilla HTML + JS/TS, Next.js / T3 Stack, Vue/Nuxt, Angular, Astro, Svelte, HTMX, QWik, Tanstack Start + Solid, Remix</sub>
   <br/>
 
   
 ### 📱 iOS / 💻 MacOS Apps
+
+  <img
+    src="https://utfs.io/f/19739520-6e3d-4d43-8b9c-a594578ab088-djbxxr.png"
+    width="600"
+    height="350"
+    alt="Business Dash"
+    style="vertical-align:middle; position:relative; top:2px;"
+  />
 
 <details>
     <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/3baaca2d-9a6b-4b2d-89cc-2416e16f7104-3edtk7.svg" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>DevSpace Pro</b></a> — 📁 The ultimate developer platform For Managing Coding Projects lifecycles, and content</span> <br/></summary>
@@ -122,7 +155,44 @@
   </details>
   <br/>
 
+  
+  <img
+    src="https://utfs.io/f/46e157f8-348e-4780-9be2-f36b54fecdd5-8fe6zt.png"
+    width="600"
+    height="380"
+    alt="Business Dash"
+    style="vertical-align:middle; position:relative; top:2px;"
+  />
+
+  <details>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/580ed28c-69c4-441d-856e-73388629fec9-57p6b3.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>YOOTube</b></a> — ▶️ A Liquid Glass Native Youtube Player for MacOS</span> <br/></summary>
+  - Includes Que, Miniplayer, pinned Tabs, Theater Mode
+  </details>
+  <br/>
+
 ### 🧩 My Open-Source Packages
+
+#### 📱 Hardware Development
+<br/>
+<ul>
+      <img
+        src="https://utfs.io/f/9c8b00b7-9267-41f7-8453-ff8214b91bbe-1xajy3.HEIC"
+        width="600"
+        height="440"
+        alt="ZyraForm"
+        style="vertical-align:middle; position:relative; top:2px;"
+      />
+  <li>
+    <span style="display:inline-flex;align-items:center;gap:8px;">
+      <a href="https://github.com/Gold240sx/ZeraForm"><b>Nocturne Connector (MacOS Spotify CarThing Infrus)</b></a>
+      - MacOS Swift App for connecting Spotify Account to the Spotify CarThing through Nocturne Firmware.
+      - <a href="https://github.com/usenocturne/nocturne#flashing">Main Product</a>
+      - <a href="https://github.com/usenocturne/nocturne-connector">Live Contributer to this Repo</a>
+      - <a href="https://www.linkedin.com/posts/martell01_swift-development-carthing-ugcPost-7479907767349161984-wKYt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5BFxMBxFpWcz-cXBzSXWAl8-SvPRTC3Uw">Writeup</a>
+    </span>
+  </li>
+</ul>
+
 
 #### 🔌 API's
 
@@ -147,8 +217,9 @@
 
 #### ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) - (SPM packages for native Swift / SwiftUI projects.)
 
-These First two packages were built because their documentation didn't offer any official SDKs or adapters, so I built them. 💪
+These First second and the third packages were built because their documentation didn't offer any official SDKs or adapters, so I built them. 💪
 <br/>
+     
 <ul>
   <li>
     <span style="display:inline-flex;align-items:center;gap:8px;">
@@ -247,6 +318,21 @@ These First two packages were built because their documentation didn't offer any
     </div>
   </li>
 </ul>
+
+<details>
+   <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/73f9ac1e-7d7d-4a5a-9c47-b114d0d49d8b-2pwt6w.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>Jelly-UI</b></a> — A fun responsive NPM Package for Interactive Jelly-like buttons. <br/></summary>
+  <br/>
+<ul>
+  <li>
+     Test it out <a href="https://jelly-ui.vercel.app"><b>HERE</b></a>
+  </li>
+  <li>
+    NPM Package to include in your Projects: <a href="https://www.npmjs.com/package/@inova.dev/jelly-ui"><b>HERE</b></a>
+  </li>
+</ul>
+</details>
+
+
 
 <p align="center">
   📧 <a href="mailto:240designworks@gmail.com">240designworks@gmail.com</a>
