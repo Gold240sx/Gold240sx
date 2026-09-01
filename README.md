@@ -120,7 +120,7 @@
   </details>
     Support for: <br/>
     
-  [![SupportFor](https://skillicons.dev/icons?i=angular,html,htmx,nextjs,react,remix,solidjs,svelte,vue&perline=9)](https://skillicons.dev)
+  [![SupportFor](https://skillicons.dev/icons?i=angular,astro,flutter,dart,elixir,kotlin,laravel,nuxt,html,javascript,htmx,nextjs,react,remix,solidjs,swift,svelte,typescript,vue&perline=9)](https://skillicons.dev)
   
    <sub>and more!</sub>
   <br/><br/>
