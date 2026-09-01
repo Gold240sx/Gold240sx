@@ -95,7 +95,7 @@
       
   <details>
     <summary>
-      <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/14567eed-55ac-4ec6-badf-e4f852eb7f92-1cq6x.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="https://biab.app"><b>Business Dash (Formerly Business In a Box) - https://biab.app </b></a></span>
+      <span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/14567eed-55ac-4ec6-badf-e4f852eb7f92-1cq6x.png" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a rel="noopener noreferrer" alongside target="_blank" href="https://businessdash.us"><b>Business Dash (Formerly Business In a Box) - BusinessDash.us </b></a></span>
     </summary>
      You build the website, Business Dash is the Dashboard to configure it for your clients. Includes all the menotinous stuff (blog, auth, chatbot, crm, email notifications, form builder, ai assistant, and wayyyy wayyy more) so you can focus on the Look and feel, and move on. The FASTEST 0-1 deliverable time to deploy you'll ever use!
 
@@ -111,10 +111,10 @@
     
   <br/>
     <ul>
-      <li>Includes MCP Server, NPM Package <a href="https://www.npmjs.com/package/@biab-dev/sdk"><b>HERE</b></a></li></li>
+      <li>Includes MCP Server, NPM Package <a href="https://www.npmjs.com/package/@businessdash/sdk"><b>HERE</b></a></li></li>
       <li>Supports Darkmode/multimode, Multi-page & full Multi-language Support</li>
-      <li>User and Developer Docs at <a href="https://biab.app"><b>DOCS</b></a></li>
-      <li>Starter Templates for 11 different Framework options. Just fork, Tell ChatGPT what you want, and in less than an hour you have a 5-figure web application deliverable to your client can be found <a href="https://github.com/Gold240sx/biab-sdk-starters"><b>HERE</b></a></li>
+      <li>User and Developer Docs at <a href="https://businessdash.us/docs"><b>DOCS</b></a></li>
+      <li>Starter Templates for 11 different Framework options. Just fork, Tell ChatGPT what you want, and in less than an hour you have a 5-figure web application deliverable to your client can be found <a href="https://github.com/businessdash/SDK-Starter-Templates"><b>HERE</b></a></li>
     </ul>
     
   </details>
@@ -140,7 +140,7 @@
 <details>
     <summary><span style="display:inline-flex;align-items:center;gap:8px;"><img src="https://utfs.io/f/3baaca2d-9a6b-4b2d-89cc-2416e16f7104-3edtk7.svg" width="25" height="25" style="vertical-align:middle; position:relative; top:2px;" alt="App Icon" /> <a href="PASTE_WEB_APP_LINK"><b>DevSpace Pro</b></a> — 📁 The ultimate developer platform For Managing Coding Projects lifecycles, and content</span> <br/></summary>
   
-  - Over a year in the work, but deep in development
+  - Over a two years in development
   - (Private Repo)
   </details>
 
