@@ -264,7 +264,7 @@ These First second and the third packages were built because their documentation
         alt="Swift Select"
         style="vertical-align:middle; position:relative; top:2px;"
       />
-      <a href="https://github.com/Gold240sx/UploadThing-Swift"><b>Swift Select</b></a>
+      <a href="https://github.com/Gold240sx/SwiftSelect"><b>Swift Select</b></a>
       - A Select Dropdown Component wrapped in an SPM Package for easy integration into SwiftUI apps.
     </span>
   </li>
